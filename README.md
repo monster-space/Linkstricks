@@ -2,7 +2,7 @@
 
 it's all free, don't be stingy ⭐️ yes: D
 
-### HOW TO CREATE Oshekher-RDP
+### HOW TO CREATE
 ```
 > Press the Fork button to create RDP (For Android / HP Users, Please Use Desktop Mode).
 
